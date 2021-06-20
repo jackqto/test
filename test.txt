@@ -8,6 +8,9 @@ update main
 Git Note:
 
 
+git checkout -b feature3
+git branch --set-upstream-to=origin/feature3
+
 Squash and Rebase — My Method for Merging Git Branches
 https://levelup.gitconnected.com/squash-and-rebase-my-method-for-merging-git-branches-3b43c52675b6
 
