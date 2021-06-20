@@ -1,2 +1,6 @@
 This is my test repo.
 feature 3
+feature 2
+change feature 1
+add test feature 2
+
