@@ -6,3 +6,5 @@ My Git Note
  [MSYS2 Git and Windows](https://medium.com/@borekb/zsh-via-msys2-on-windows-3964a943b1ce)
 
  test
+ test2
+ 
